@@ -2,7 +2,7 @@
 
 My name is Luka Hietala and you can find me on Discord as Pix.
 
-I am currently maintaining my own open source project. https://github.com/Project-Corex. It’s a free and open source project that helps people learn the basics of programming and computers in general. So if you want to help other people with programming, feel free to join the community and start contributing.
+I am currently maintaining my own open source project. https://github.com/Project-Corex (All my projects are there). It’s a free and open source project that helps people learn the basics of programming and computers in general. So if you want to help other people with programming, feel free to join the community and start contributing.
 
 I am learning new programming languages like Javascript, HTML, CSS.
 
