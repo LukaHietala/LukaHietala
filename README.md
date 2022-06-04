@@ -1,12 +1,6 @@
-### Hey!
+### Heyo!
 
-My name is Luka Hietala and you can find me on Discord as Pix.
-
-I am currently maintaining my own open source project. https://github.com/Project-Corex (All my projects are there). It’s a free and open source project that helps people learn the basics of programming and computers in general. So if you want to help other people with programming, feel free to join the community and start contributing.
-
-I am learning new programming languages like Typescript.
-
-I am most active in discord, so you can contact me there. :)
+I'm a developer that contributes to open-source and uses Typescript.
 
 Links: 
 1. **Project Corex:** https://github.com/Project-Corex.
