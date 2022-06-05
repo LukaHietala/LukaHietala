@@ -1,6 +1,6 @@
 ### Heyo!
 
-I'm a developer that contributes to open-source and uses Typescript.
+I'm a developer that contributes to open-source and uses Typescript and Javascript.
 
 Links: 
 1. **Project Corex:** https://github.com/Project-Corex.
