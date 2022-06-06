@@ -2,7 +2,7 @@
 
 I'm a developer that contributes to open-source and uses Typescript and Javascript.
 
-Links: 
+Links / Projects: 
 1. **Project Corex:** https://github.com/Project-Corex.
 2. **Project Corex community (Discord):**  https://discord.gg/bhseUu3dcM.
 3. **Reddit bot:** https://github.com/elebumm/RedditVideoMakerBot
