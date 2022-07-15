@@ -22,7 +22,7 @@ My blog: [Hashnode](https://lukahietala.hashnode.dev/)
 - Most experience with TypeScript
 - 2 years of experience
 
-## Contact
+## Contact me
 
 - Discord (Pix#0001)
 
