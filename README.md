@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=LukaHietala)
+
 ### Heyo!
 
 I'm a developer that contributes to open-source and uses Typescript and Javascript.
