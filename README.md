@@ -4,10 +4,13 @@ I am a full-stack developer from Finland. I am mostly working with TypeScript an
 
 Skills:
 
-- [TypeScript](https://www.typescript.org/)
-- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescript.org/) is my favorite programming language, because it is useful with larger projects and types to avoid small bugs.
+- [Next.js](https://nextjs.org/). I chose Next.js as my framework for React. It is hybrid so it supports **server-side rendering**, **static site generation**, and **client-side rendering**.
 - [React](https://reactjs.org/)
 - [Javascript](https://javascript.com/)
+- [TailwindCSS](https://tailwindcss.com/) I love Tailwind CSS because it has powerful utils, a customizable design system, and I don't need to worry about naming ever again. 
+
+I want to learn more about Prisma and tRPC, because they work with Typescript out of the box and are just practical.
 
 ## Experience
 
