@@ -21,9 +21,9 @@ My blog: [Hashnode](https://lukahietala.hashnode.dev/)
 ### Other
 
 - Self-taught
-- Started learning programming in 2020
+- Started learning programming in 2021
 - Most experience with TypeScript
-- 2 years of experience
+- 1.5 years of experience
 
 ## Contact me
 
