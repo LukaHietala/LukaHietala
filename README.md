@@ -1,4 +1,4 @@
-# Hey there! 👋 ![Profile views](https://komarev.com/ghpvc/?username=LukaHietala)
+# Hey there! 👋 ![Profile views](https://komarev.com/ghpvc/?username=LukaHietala&style=flat-square)
 
 I am a full-stack developer from Finland. I am mostly working with TypeScript and Next JS, but I have also worked with C# and Javascript. I'm also a huge fan of open-source, so I mainly work with open-source projects. ✨
 
