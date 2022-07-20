@@ -18,8 +18,6 @@ I'm relatively new to the industry, so I'm learning new things every day. I main
 
 My blog: [Hashnode](https://lukahietala.hashnode.dev/)
 
-### Other
-
 - Self-taught
 - Started learning programming in 2021
 - Most experience with TypeScript
